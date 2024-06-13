@@ -2,10 +2,7 @@
 # coding: utf-8
 
 # ## APIcallToAzureSQLdb
-# 
-# New notebook
-
-# In[1]:
+# Developer - Nosa
 
 
 import requests
